@@ -1,4 +1,4 @@
-## Hi there 👋
+## Infinity Suit👋
 
 <!--
 Infinity Suite is an all-in-one digital productivity hub designed to give users complete, unrestricted access to premium office utilities entirely for free. Built for students, freelancers, and professionals, the platform eliminates paywalls and hidden subscriptions by consolidating essential document creation, spreadsheet modeling, presentation design, and PDF management into a single browser-based workspace.
