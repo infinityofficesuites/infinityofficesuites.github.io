@@ -1,7 +1,7 @@
 ## Infinity Office Suites ♾️ 
 
 <!--
-♾️ Infinity Suite — Free Open-Source Document Tools
+♾️ Infinity Office Suite — Free Open-Source Document Tools
 
 Infinity Office Suite is a 100% free, browser-based, open-source document universe. Process, convert, edit, split, merge, compress, and inspect files directly in your web browser—**no server uploads required, no subscription fees, and complete privacy**.
 
